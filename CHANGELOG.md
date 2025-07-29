@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1
+
+* Fixed iOS plugin structure and podspec configuration
+* Removed unnecessary platform directories 
+* Fixed plugin installation issues
+
 ## 1.0.0
 
 * Initial release of Custom Haptics Plugin
