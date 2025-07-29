@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2
+
+* Updated the README.md file
+
 ## 1.0.1
 
 * Fixed iOS plugin structure and podspec configuration
