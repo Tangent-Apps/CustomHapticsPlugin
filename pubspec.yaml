@@ -1,7 +1,7 @@
 name: custom_haptics_plugin
 description: A Flutter plugin for advanced haptic feedback patterns on iOS using CoreHaptics.
-homepage: https://github.com/yourusername/custom_haptics_plugin
-repository: https://github.com/yourusername/custom_haptics_plugin
+homepage: https://github.com/Tangent-Apps/CustomHapticsPlugin
+repository: https://github.com/Tangent-Apps/CustomHapticsPlugin
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -19,7 +19,7 @@ version: 1.0.0
 
 environment:
   sdk: ^3.8.1
-  flutter: ^3.24.0
+  flutter: ">=3.24.0"
 
 dependencies:
   flutter:
