@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.3
+
+* Added registerWith method for legacy plugin registration compatibility
+* Fixed build error with dart_plugin_registrant.dart
+
 ## 1.0.2
 
 * Updated the README.md file

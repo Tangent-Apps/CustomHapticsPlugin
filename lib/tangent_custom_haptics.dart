@@ -3,6 +3,12 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
 class CustomHapticsPlugin with WidgetsBindingObserver {
+  /// Registers this plugin with the Flutter engine.
+  /// Required for legacy plugin registration.
+  static void registerWith(dynamic registrar) {
+    // This method is called by Flutter for legacy plugin registration
+    // The actual registration is handled by the iOS plugin code
+  }
   static const MethodChannel _channel = MethodChannel('custom_haptics');
   static CustomHapticsPlugin? _instance;
   static bool _isInitialized = false;
