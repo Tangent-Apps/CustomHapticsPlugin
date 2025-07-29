@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.4
+
+* Fixed registerWith method signature to match Flutter's expectations
+* Resolved "Too few positional arguments" error
+
 ## 1.0.3
 
 * Added registerWith method for legacy plugin registration compatibility
