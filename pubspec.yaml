@@ -1,4 +1,4 @@
-name: custom_haptics_plugin
+name: tangent_custom_haptics
 description: A Flutter plugin for advanced haptic feedback patterns on iOS using CoreHaptics.
 homepage: https://ahmedbahgaten@github.com/Tangent-Apps/CustomHapticsPlugin.git
 repository: https://ahmedbahgaten@github.com/Tangent-Apps/CustomHapticsPlugin.git
